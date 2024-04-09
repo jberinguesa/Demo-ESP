@@ -2,6 +2,8 @@
 Demo de creació d'un projecte per treballar amb ESP
 
 En el fitxer .vscode/extensions.json hi ha les extensions que s'han d'instal·lar. Una d'elles és l'IDF d'ESP per poder treballar amb ESP.
+Un cop instal·lat, anar a View/Command i executar "ESP-IDF: Configure ESP-IDF Extension"
+Per projectes d'exemple, executar "ESP-IDF Show example projects"
 
  	- Fer Download tools
 	- Anar a View/Command i executar ESP-IDF Show example projects

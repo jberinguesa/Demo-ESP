@@ -1,5 +1,5 @@
-## Demo entorns virtuals
-Demo entorns virtuals per curs VSC.
+## Demo ESP
+Demo de creació d'un projecte per treballar amb ESP
 S'han creat 4 fitxers a dins el directori ocult .vscode:
 - tasks.json: Crea l'entorn virtual i l'activa
 - requirements.txt: Defineix les llibreries Python que ha d'importar l'entorn virtual

@@ -1,7 +1,6 @@
 {
         "recommendations": [
             "ms-python.python",
-            "whizkydee.material-palenight-theme",
             "espressif.esp-idf-extension"
         ]
     }

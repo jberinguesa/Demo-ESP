@@ -1,5 +1,9 @@
 {
     "editor.tabSize": 4,
     "python.defaultInterpreterPath": "${workspaceFolder}/env311/bin/python3.11", 
-    "python.pythonPath": "${workspaceFolder}/env311/bin/python3.11"
+    "python.pythonPath": "${workspaceFolder}/env311/bin/python3.11",
+    "idf.adapterTargetName": "esp32c6",
+    "idf.openOcdConfigs": [
+        "board/esp32c6-ftdi.cfg"
+    ]
 }
